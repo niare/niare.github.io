@@ -1,0 +1,10 @@
+#maintitle {
+  color: red;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+a {
+  color: brown;
+  text-decoration: none;
+}
+a:hover {text-decoration: underline;}
+a: visited {}
