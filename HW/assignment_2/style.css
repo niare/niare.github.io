@@ -2,9 +2,22 @@
   color: red;
   font-family: 'Yanone Kaffeesatz', sans-serif;
 }
+#tabletitle {
+  color: green;
+  font-family: "Kavivanar", cursive;
+}
 a {
   color: brown;
   text-decoration: none;
 }
-a:hover {text-decoration: underline;}
+a:hover {
+color: red;
+}
 a: visited {}
+.largetext {font-size: 60px}
+.pink-bg {background: #F778A5;}
+.pink-text {color: #F778A5;}
+
+section {margin-top: 20px; border-top: 3px dashed green}
+ul {list-style-type: circle;}
+address {border-bottom: dashed yellow}
