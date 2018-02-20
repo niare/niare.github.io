@@ -13,7 +13,9 @@ a {
 a:hover {
 color: red;
 }
-a:visited {color; green}
+a:visited {
+  color: yellow;
+}
 .largetext {font-size: 60px}
 .pink-bg {background: #F778A5;}
 .pink-text {color: #F778A5;}
