@@ -13,7 +13,7 @@ a {
 a:hover {
 color: red;
 }
-a:visited {
+.a:visited {
   color: yellow;
 }
 .largetext {font-size: 60px}
