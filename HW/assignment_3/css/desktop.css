@@ -11,8 +11,7 @@ margin-right: auto;
   float: left;
 }
 .center {
-  margin-auto;
-}
+  margin: auto;
 }
   .rightContent {
     display: block;
