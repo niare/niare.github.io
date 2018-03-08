@@ -2,6 +2,9 @@
   color: white;
   font-family: 'Fjalla One';
   font-size: 100px;
+  margin-top: 20px;
+  border-bottom: 3px;
+  dashed: green;
 }
 img { max-width: 100%; }
 body {
