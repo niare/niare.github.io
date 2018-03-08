@@ -27,11 +27,15 @@ body {
    float: right;
    width: 100px;
  }
+.outerimage {
+  margin-left: auto;
+  margin-right: auto;
 
+}
 .clear { clear: both;;}
 nav ul, nav ul li { list-style-type: none}
 nav ul { margin: 0; padding: 0}
-nav ul li { display: inline-block; margin: 160px;}
+nav ul li { display: inline-block; margin: 10px;}
 .headerfont {
   font-family: 'Krona One', sans-serif;
   font-size: 15px;
@@ -63,7 +67,7 @@ nav ul li { display: inline-block; margin: 160px;}
   list-style-type: none;
 }
 .gallery li {
-  border: 1px solid #2E4172
+  border: 1px solid #2E4172;
   padding; 0;
 }
 .dark-bg {
