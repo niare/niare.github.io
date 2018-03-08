@@ -1,0 +1,75 @@
+#maintitle {
+  color: white;
+  font-family: 'Fjalla One';
+  font-size: 100px;
+}
+img { max-width: 100%; }
+body {
+  background-color: lightblue;
+}
+ a {
+   color: white;
+   text-decoration: none;
+ }
+ .container {
+   display: block;
+   width: 600px;
+ }
+ .left {
+   display: block;
+   float: left;
+   width: 100px;
+ }
+ .right {
+   display: block;
+   float: right;
+   width: 100px;
+ }
+
+.clear { clear: both;;}
+nav ul, nav ul li { list-style-type: none}
+nav ul { margin: 0; padding: 0}
+nav ul li { display: inline-block; margin: 160px;}
+.headerfont {
+  font-family: 'Krona One', sans-serif;
+  font-size: 15px;
+}
+.firstpagetext {
+  font-family:'Shadows Into Light', cursive;
+  font-size: 30px;
+}
+section {margin-top: 20px; border-top: 3px dashed green}
+.outerimage {
+  background: images/zebra.jpg;
+  top-center: no-repeat;
+  background-size: cover;
+  height: 400px;
+  margin: auto;
+}
+.headings {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 50px;
+}
+.typeface {
+  font-family:'Shadows Into Light', cursive;
+  font-size: 30px;
+}
+.gallery {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #2E4172;
+}
+.clear { clear: both;}
+.gallery ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+.gallery li {
+  border: 1px solid #2E4172
+  padding; 0;
+}
+.dark-bg {
+  color: black;
+  font-family: fantasy;
