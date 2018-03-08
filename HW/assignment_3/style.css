@@ -3,8 +3,7 @@
   font-family: 'Fjalla One';
   font-size: 100px;
   margin-top: 20px;
-  border-bottom: 3px;
-  dashed: green;
+  border-bottom: 3px dashed green;
 }
 img { max-width: 100%; }
 body {
@@ -41,19 +40,11 @@ nav ul li { display: inline-block; margin: 160px;}
   font-family:'Shadows Into Light', cursive;
   font-size: 30px;
 }
-.outerimage {
-  background: images/zebra.jpg;
-  top-center: no-repeat;
-  background-size: cover;
-  height: 400px;
-  margin: auto;
-}
 .headings {
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 50px;
   margin-top: 20px;
-  border-bottom: 3px;
-  dashed: green;
+  border-bottom: 3px dashed green;
 }
 .typeface {
   font-family:'Shadows Into Light', cursive;
