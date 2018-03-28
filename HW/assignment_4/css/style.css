@@ -2,7 +2,7 @@
 #howTo li.active {display: block;}
 
 #title {
-  font-family: 'Anton' ; sans-serif;
+  font-family: 'Anton' , sans-serif;
   background-color: #D48C6A;
   width: 300px;
   border: 20px;
