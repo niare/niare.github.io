@@ -1,6 +1,6 @@
 $(function () {
   //HideStuff
-  $('#getStarted,#finish, #previous, .hide').hide();
+  $('#getStarted,#finish, #previous, .hide, #survey').hide();
 
 
   $('#title').on('mouseover', function () {
@@ -15,7 +15,8 @@ $(function () {
     $('#getStarted').hide();
   });
   $('#finish').on('click',function() {
-
+    $('.hide, #next, #previous, #finish').hide();
+    $('#survey').show();
   })
   $('.hide,#next,#previous, #finish').on('click',function () {
     var currentItem = $('li.active');
