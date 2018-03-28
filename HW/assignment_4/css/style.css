@@ -1,0 +1,28 @@
+#howTo li {display: none;}
+#howTo li.active {display: block;}
+
+#title {
+  font-family: 'Anton' ; sans-serif;
+  background-color: #D48C6A;
+  width: 300px;
+  border: 20px;
+  padding: 25px;
+  margin: 25px;
+  float: left;
+  clear: both;
+}
+p {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+  border-top: dashed black;
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
